@@ -54,3 +54,20 @@ telnet localhost 6379
     Book: Build Your Own Redis with C/C++
 
     Author: James Smith
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Auth
+
+**Yogesh** - https://github.com/cygsh 
+
+---
+
+## 🙏 Acknowledgments
+
+- [Build Your Own Redis with C/C++](https://build-your-own.org/redis/) by James Smith
+- The Redis community for inspiration
